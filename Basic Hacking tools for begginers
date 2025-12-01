@@ -1,0 +1,126 @@
+✅ 1. Information Gathering (Recon)
+Subdomain Enumeration
+
+Subfinder
+
+Assetfinder
+
+Amass
+
+Findomain
+
+URL/Endpoint Discovery
+
+Waybackurls
+
+Katana
+
+Gau (GetAllUrls)
+
+Port Scanning / Services
+
+Nmap
+
+Masscan
+
+Rustscan
+
+Directory/File Enumeration
+
+Dirsearch
+
+Gobuster
+
+Feroxbuster
+
+✅ 2. Vulnerability Scanning
+
+Nuclei – template-based scanner (most powerful for bug bounty)
+
+Nikto – web server scanner
+
+Wpscan – WordPress scanner
+
+SSLscan / Testssl – SSL issues
+
+✅ 3. Web Application Testing
+
+Burp Suite (most important)
+
+OWASP ZAP
+
+Postman (for API testing)
+
+XSStrike (XSS testing)
+
+SQLMap (SQLi exploitation)
+
+✅ 4. Network & Exploitation Tools
+
+Metasploit Framework
+
+Exploit-DB Searchsploit
+
+SET (Social-Engineer Toolkit)
+
+✅ 5. Wireless Hacking Tools
+
+Aircrack-ng
+
+Wifite
+
+Bettercap
+
+✅ 6. OSINT Tools
+
+Sherlock (username hunting)
+
+theHarvester
+
+Recon-ng
+
+Shodan
+
+Censys
+
+✅ 7. Post-Exploitation Tools
+
+Mimikatz
+
+Empire
+
+Cobalt Strike (Paid)
+
+Sliver Framework (Free alternative to CS)
+
+✅ 8. Android / Mobile Testing
+
+MobSF (Mobile Security Framework)
+
+Frida
+
+Apktool
+
+Objection
+
+✅ 9. Cloud & Infrastructure
+
+Trivy
+
+Kube-Hunter
+
+ScoutSuite
+
+✅ 10. For SOC / Blue Team
+
+ELK Stack (Elasticsearch, Logstash, Kibana)
+
+Wazuh
+
+Splunk
+
+OSQuery
+
+Wireshark
+
+Security Onion
